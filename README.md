@@ -32,14 +32,15 @@ vader
 ### Algorithms 
 * Latent Dirichlet Allocation  
 * Named entity recognition using spacy
+* Sentiment analysis
 
 ### Approach:
 1. Extraction of data from Reddit
 2. Performing Named entity recognition analysis to get the various organizations that the people are talking about.  
-3. Entity comparison analysis to understand what companies are being grouped together based on comments
-4. Topic modelling to understand to understand the primary and common concerns that cordcutters are expressing in their comments  
+3. Topic modelling to understand to understand the primary and common concerns that cordcutters are expressing in their comments  
+4. Sentiment analysis to understand customer's sentiment towards cable companies
 
-### Insights:
-* Channels like ABC, Fox, NBS are grouped together and streaming services like netflix, hulu, hbo are grouped together showing that atleast people are not comparing them frequently. This will be a good thing, as we have observed during the comparison of channels and streaming services, it is often channels that lose the battle.  
+### Insights: 
 * We see that primarliy cord cutters voiced their opinion about user experience, net neutrality, sports packages and traditional cable experience in their comments  
 * Niche products – FuboTV – are associated more with product related topics as opposed to general interest topics  
+* 
