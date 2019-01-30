@@ -43,3 +43,4 @@ vader
 ### Insights: 
 * We see that primarliy cord cutters voiced their opinion about user experience, net neutrality, sports packages and traditional cable experience in their comments  
 * Niche products – FuboTV – are associated more with product related topics as opposed to general interest topics  
+* POS Bigram analysis reveals interesting crowd attitudes towards streaming services, specific shows and actors. For instance, 'Adam Sandler' and 'Big Bang Theory' are associated with negative sentiments while 'Stranger Things' are associated with positive sentiments.
