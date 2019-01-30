@@ -43,4 +43,3 @@ vader
 ### Insights: 
 * We see that primarliy cord cutters voiced their opinion about user experience, net neutrality, sports packages and traditional cable experience in their comments  
 * Niche products – FuboTV – are associated more with product related topics as opposed to general interest topics  
-* 
