@@ -12,7 +12,8 @@
 In this project, we have scraped data from Reddit and performed Named entity recognition and topic modelling on the comments to understand public views about moving from cable channels to streaming services
 
 [Cable cord cutter analysis using text analytics.ipynb](https://github.com/akhilesh-reddy/Cable-cord-cutter-lift-and-sentiment-analysis-using-Reddit-data/blob/master/Cable%20cord%20cutter%20analysis%20using%20text%20analytics.ipynb) has the final code.  
-[Text Analytics Final Project presentation.pdf](https://github.com/akhilesh-reddy/Cable-cord-cutter-lift-and-sentiment-analysis-using-Reddit-data/blob/master/Text%20Analytics%20Final%20Project%20presentation.pdf) has our final presentation.  
+[Text Analytics Final Project presentation.pdf](https://github.com/akhilesh-reddy/Cable-cord-cutter-lift-and-sentiment-analysis-using-Reddit-data/blob/master/Text%20Analytics%20Final%20Project%20presentation.pdf) has our final presentation.   
+I have also authored a step by step approach to obtain Reddit data in Towards Data science. Click [here](https://towardsdatascience.com/scrape-reddit-data-using-python-and-google-bigquery-44180b579892) to read the article.  
 	
 ### Technologies
 Project is created with:
